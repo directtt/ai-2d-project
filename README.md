@@ -24,4 +24,4 @@ We have chosen smart tractor as a main topic of our project. The task of the sma
 - Some auxiliary Data Science libraries such as [pandas](https://github.com/pandas-dev/pandas), [numpy](https://github.com/numpy/numpy) or [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
 ## Preview 
-![test](https://im.ezgif.com/tmp/ezgif-1-d4a04fd200.gif)
+![project_gif](https://user-images.githubusercontent.com/72359171/180638289-ab7a7da6-cd54-4546-b182-5d8356c42a9b.gif)
