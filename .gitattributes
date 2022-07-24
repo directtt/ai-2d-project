@@ -1,0 +1,2 @@
+# Ignore .ipynb inside repo language stas
+notebooks/** linguist-vendored
