@@ -1,5 +1,5 @@
 # tractor-ai-2d-project
-Python reinforcement learning 2D project for my AI classes that uses search algorithms, machine learning, neural networks and genetic algorithm.
+Python reinforcement learning 2D project for my AI classes that uses path search algorithms, machine learning, neural networks and genetic algorithm.
 
 ## General idea
 General idea of classes was to implement throughout semester end-to-end AI project that consist of:
