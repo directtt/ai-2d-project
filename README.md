@@ -11,6 +11,16 @@ We have chosen smart tractor as a main topic of our project. The task of the sma
 
 ## Algorithms use case 
 - Searching Algorithms: BFS & A* for tractor shortest path to crops finding
-- Machine Learning: XGBoost for crops watering decision
+- Machine Learning: XGBoost for crops watering decision (binary classification)
 - Neural Networks: CNN for image classification of real crops images to crops on the board
 - Genetic Algorithm: intial arrangement of the crops on the board
+
+## Libraries 
+- [pygame](https://github.com/pygame/) for agent and enviroment representation
+- BFS & A* were implemented from scratch
+- [XGBoost](https://github.com/dmlc/xgboost) for classification
+- [tensorflow](https://github.com/tensorflow/tensorflow) for CNN
+- Genetic algorithm was implemented from scratch
+- Some auxiliary Data Science libraries such as [pandas](https://github.com/pandas-dev/pandas), [numpy](https://github.com/numpy/numpy) or [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+
+## Preview 
