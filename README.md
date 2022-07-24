@@ -1,6 +1,7 @@
 # tractor-ai-2d-project
 Python reinforcement learning 2D project for my AI classes that uses search algorithms, machine learning, neural networks and genetic algorithm.
 
+
 ## General idea
 General idea of classes was to implement throughout semester end-to-end AI project that consist of:
 - Implementation of a two-dimensional discrete environment (aka lattice) for an autonomous agent using knowledge representation techniques presented in lectures
