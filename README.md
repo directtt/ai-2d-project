@@ -1,4 +1,4 @@
-# ai-2d-project
+# tractor-ai-2d-project
 Python reinforcement learning 2D project for my AI classes that uses search algorithms, machine learning, neural networks and genetic algorithm.
 
 ## General idea
