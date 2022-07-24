@@ -10,5 +10,7 @@ General idea of classes was to implement throughout semester end-to-end AI proje
 We have chosen smart tractor as a main topic of our project. The task of the smart tractor is to cultivate the field. The tractor, moving around the field, checks the soil and crop condition and makes decisions on the application of crop irrigation, fertilizer application, collecting crops etc.
 
 ## Algorithms use case 
-- Searching Algorithms: BFS & A* for agent shortest path finding
-- Machine Learning: XGBoost 
+- Searching Algorithms: BFS & A* for tractor shortest path to crops finding
+- Machine Learning: XGBoost for crops watering decision
+- Neural Networks: CNN for image classification of real crops images to crops on the board
+- Genetic Algorithm: intial arrangement of the crops on the board
