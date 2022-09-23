@@ -1,6 +1,9 @@
 # tractor-ai-2d-project
 Python reinforcement learning 2D project for my AI classes that uses path search algorithms, machine learning, neural networks and genetic algorithm.
 
+## Preview 
+![project_gif](https://user-images.githubusercontent.com/72359171/180638289-ab7a7da6-cd54-4546-b182-5d8356c42a9b.gif)
+
 ## General idea
 General idea of classes was to implement throughout semester end-to-end AI project that consist of:
 - Implementation of a two-dimensional discrete environment (aka lattice) for an autonomous agent using knowledge representation techniques presented in lectures
@@ -22,6 +25,3 @@ We have chosen smart tractor as a main topic of our project. The task of the sma
 - [tensorflow](https://github.com/tensorflow/tensorflow) for CNN
 - Genetic algorithm was implemented from scratch
 - Some auxiliary Data Science libraries such as [pandas](https://github.com/pandas-dev/pandas), [numpy](https://github.com/numpy/numpy) or [scikit-learn](https://github.com/scikit-learn/scikit-learn)
-
-## Preview 
-![project_gif](https://user-images.githubusercontent.com/72359171/180638289-ab7a7da6-cd54-4546-b182-5d8356c42a9b.gif)
